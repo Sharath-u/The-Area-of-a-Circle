@@ -1,4 +1,4 @@
-//To find the area of a circles
+//To find the area of a circle
 #include<stdio.h>
 int main(){
     int radius; 
